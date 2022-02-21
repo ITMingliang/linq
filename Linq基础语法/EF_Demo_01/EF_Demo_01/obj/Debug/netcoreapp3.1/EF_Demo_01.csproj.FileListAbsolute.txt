@@ -1,0 +1,14 @@
+F:\Learning\EF\EF_Demo_01\EF_Demo_01\bin\Debug\netcoreapp3.1\EF_Demo_01.exe
+F:\Learning\EF\EF_Demo_01\EF_Demo_01\bin\Debug\netcoreapp3.1\EF_Demo_01.deps.json
+F:\Learning\EF\EF_Demo_01\EF_Demo_01\bin\Debug\netcoreapp3.1\EF_Demo_01.runtimeconfig.json
+F:\Learning\EF\EF_Demo_01\EF_Demo_01\bin\Debug\netcoreapp3.1\EF_Demo_01.runtimeconfig.dev.json
+F:\Learning\EF\EF_Demo_01\EF_Demo_01\bin\Debug\netcoreapp3.1\EF_Demo_01.dll
+F:\Learning\EF\EF_Demo_01\EF_Demo_01\bin\Debug\netcoreapp3.1\EF_Demo_01.pdb
+F:\Learning\EF\EF_Demo_01\EF_Demo_01\obj\Debug\netcoreapp3.1\EF_Demo_01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learning\EF\EF_Demo_01\EF_Demo_01\obj\Debug\netcoreapp3.1\EF_Demo_01.AssemblyInfoInputs.cache
+F:\Learning\EF\EF_Demo_01\EF_Demo_01\obj\Debug\netcoreapp3.1\EF_Demo_01.AssemblyInfo.cs
+F:\Learning\EF\EF_Demo_01\EF_Demo_01\obj\Debug\netcoreapp3.1\EF_Demo_01.csproj.CoreCompileInputs.cache
+F:\Learning\EF\EF_Demo_01\EF_Demo_01\obj\Debug\netcoreapp3.1\EF_Demo_01.dll
+F:\Learning\EF\EF_Demo_01\EF_Demo_01\obj\Debug\netcoreapp3.1\EF_Demo_01.pdb
+F:\Learning\EF\EF_Demo_01\EF_Demo_01\obj\Debug\netcoreapp3.1\EF_Demo_01.genruntimeconfig.cache
+F:\Learning\EF\EF_Demo_01\EF_Demo_01\obj\Debug\netcoreapp3.1\EF_Demo_01.csproj.AssemblyReference.cache
